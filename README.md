@@ -206,5 +206,3 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 
 
-
-Thank you for your support, and I look forward to connecting with you!
